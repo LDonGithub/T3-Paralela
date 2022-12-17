@@ -37,6 +37,14 @@ dependencies:
   firebase_core: ^2.4.0
   firebase_auth: ^4.2.1
   google_sign_in: ^5.2.1
+  dio_http_cache: ^0.3.0
+  flutter_riverpod: ^1.0.4
+  freezed: ^0.14.2
+  freezed_annotation: ^0.15.0
+  json_serializable: ^4.1.4
+  build_runner: ^2.1.11
+  cached_network_image: ^3.2.1
+  google_fonts: ^3.0.1
 
 dev_dependencies:
   flutter_test:

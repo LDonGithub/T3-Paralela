@@ -6,7 +6,7 @@ class PaginaFavoritos extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Text("Favortios", style: TextStyle(fontSize: 30),),
+      child: Text("Favoritos", style: TextStyle(fontSize: 30),),
     );
   }
 }

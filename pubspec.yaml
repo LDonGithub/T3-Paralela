@@ -45,6 +45,7 @@ dependencies:
   build_runner: ^2.1.11
   cached_network_image: ^3.2.1
   google_fonts: ^3.0.1
+  flutter_native_splash: ^2.2.16
 
 dev_dependencies:
   flutter_test:
@@ -96,3 +97,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+  

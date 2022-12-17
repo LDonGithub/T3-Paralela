@@ -80,7 +80,7 @@ class PokemonListTile extends ConsumerWidget {
                           child: Text(
                             gameIndex,
                             style: GoogleFonts.delaGothicOne(
-                              fontSize: 28,
+                              fontSize: 16,
                               height: 1,
                               color: Colors.black12,
                             ),
@@ -90,7 +90,7 @@ class PokemonListTile extends ConsumerWidget {
                           child: Text(
                             name,
                             style: GoogleFonts.delaGothicOne(
-                              fontSize: 28,
+                              fontSize: 22,
                               height: 1,
                             ),
                           ),
@@ -196,7 +196,7 @@ class Details extends ConsumerWidget {
                   Text(
                     gameIndex,
                     style: GoogleFonts.delaGothicOne(
-                      fontSize: 28,
+                      fontSize: 18,
                       height: 1,
                       color: Colors.black26,
                     ),
@@ -205,7 +205,7 @@ class Details extends ConsumerWidget {
                   Text(
                     name,
                     style: GoogleFonts.delaGothicOne(
-                      fontSize: 32,
+                      fontSize: 22,
                       height: 1,
                     ),
                   ),

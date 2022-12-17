@@ -23,7 +23,7 @@ class PaginaInicio extends StatelessWidget {
               height: 20,
             ),
             ElevatedButton(
-              child: const Text("Logout"),
+              child: const Text("Salir"),
               onPressed: () async {
                 await FirebaseServices().googleSignOut();
                 Navigator.push(

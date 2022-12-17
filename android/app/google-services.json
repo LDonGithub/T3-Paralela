@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241721911344",
+    "project_id": "taller3paralelas",
+    "storage_bucket": "taller3paralelas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241721911344:android:f49b0ac2e63c47995165f5",
+        "android_client_info": {
+          "package_name": "com.example.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241721911344-cgo2o23ev3tdhq3qq1hsm2qkhs616skv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_signin",
+            "certificate_hash": "8d230d40dc0baad7725a27819e64bfe2471107bf"
+          }
+        },
+        {
+          "client_id": "241721911344-3om78fse0dqeo4si10vpr9bnkqf08p4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa2UwNC2T9gSLerKS91F05KDxEBwzvrVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241721911344-3om78fse0dqeo4si10vpr9bnkqf08p4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

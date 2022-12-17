@@ -1,17 +1,18 @@
-# google_signin
+# Aplicación
 
-A new Flutter project.
+La siguiente aplicación tiene como fin ocupar la funcionalidad de iniciar sesión y revisar un listado de pokemon y su información
 
-## Getting Started
+## Entorno
 
-This project is a starting point for a Flutter application.
+Para utilizar esta aplicación, se recomienda ejecutar flutter doctor para comprobar el entorno de programación.
+```
+flutter doctor
+```
 
-A few resources to get you started if this is your first Flutter project:
+Y luego se recomienda el siguiente comando para descargar las dependencias no incluidas en este repositorio.
+```
+flutter packages get
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# T3-Paralela
+
